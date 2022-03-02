@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gusmccallum
-- I'm a third year student at Seneca College's Computer Programming and Analysis Program
-- This term I'm learning about Open Source Development, Android App Development, and Data Structures and Algorithms
+- I'm a third year student at Seneca College's Computer Programming and Analysis Program.
+- This term I'm learning about Portability and Optimization, Robotics, PL/SQL, OpenGL, and I'm managing and developing my final project for this program.
 - You can connect with me at https://www.linkedin.com/in/gus-mccallum/
 
 
