@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gusmccallum
-- I'm a third year student at Seneca College's Computer Programming and Analysis Program.
-- This term I'm learning about Portability and Optimization, Robotics, PL/SQL, OpenGL, and I'm managing and developing my final project for this program.
+- I'm a recent graduate of Seneca College's Computer Programming and Analysis Program.
+- I recently managed a team developing an app called [OurMP](https://ourmp.ca/) for my final project.
 - You can connect with me at https://www.linkedin.com/in/gus-mccallum/
 
 
